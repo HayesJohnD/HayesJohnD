@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HayesJohnD
-- 👀 I’m interested in Python, R, Data Analytics
+- 👀 I am a Developer/Data Analyst interested in Python, R, Data Analytics, Data Science, AI and Machine Learning
 - 💞️ I’m looking to collaborate on Python, R, Data Analytics
 - 📫 How to reach me ...
 
