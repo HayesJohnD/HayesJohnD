@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HayesJohnD
-- 👀 I am a Developer/Data Analyst interested in Python, R, Data Analytics, Data Science, AI and Machine Learning
-- 💞️ I’m looking to collaborate on Python, R, Data Analytics
+- 👀 I am a Developer/Data Analyst interested in Python, R, JavaScript, React, Data Analytics, Data Science, AI and Machine Learning
+
 - 📫 How to reach me jdhayes.linux@gmail.com
 
 <!---
